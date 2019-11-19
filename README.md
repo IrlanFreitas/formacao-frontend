@@ -4,7 +4,7 @@ Projetos que compõem a formação front-end porcompleto estarão aqui, menos o 
 
 Futuramente será descrito todos os cursos e passo-a-passo do que está sendo feito.
 
-[Alura Formação Java](https://cursos.alura.com.br/formacao-front-end)
+[Alura Formação Front-end](https://cursos.alura.com.br/formacao-front-end)
 
 
 
